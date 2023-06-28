@@ -6,8 +6,6 @@
 
 - 🤝 I’m looking for help with **flutter, Mobile Application Development**
 
-- 📫 How to reach me **madmax20032002@gmail.com**
-
 - ⚡ Fun fact **I am too lazy**
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evabiswasmmc&theme=github)
